@@ -12,4 +12,6 @@ We made the game as hard as possible while still being beatable. To win, you’l
 
 <img width="1440" alt="Screenshot 2023-12-09 at 4 35 04 PM" src="https://github.com/rar339/MTD/assets/108008208/fa9465fc-ad60-4ece-a5b8-95e187ecd30a">
 
-https://media.github.coecis.cornell.edu/user/15881/files/6df52dc3-a2c9-4929-a028-7a5a22131333
+https://github.com/alexspero/MTD/assets/114709605/2f3b936d-08e0-4f60-81bd-a98fa4552101
+
+
